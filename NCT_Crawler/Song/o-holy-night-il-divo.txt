@@ -1,38 +1,40 @@
 Pop|
 
-                        [ti:O Holy Night]
-[ar:Il Divo]
-[al:Ancora]
-[offset:500]
-Il Divo - O Holy Night
+                        Bài hát: O Holy Night - Il Divo
 
+[Urs:]
 O holy night! The stars are brightly shining,
 It is the night of the dear Saviour's birth.
 
+[David:]
 Long lay the world in sin and error pining.
 Till He appeared and the soul felt its worth.
 
+[Carlos:]
 A thrill of hope, the weary soul rejoices,
 For yonder breaks a new and glorious morn.
 
+[Sebastien:]
 Fall on your knees! Oh, hear the angel voices!
 O night divine, oh night when Christ was born;
 
+[Urs:]
 O night divine, oh night oh night divine.
+
 O holy night! The stars are brightly shining,
 It is the night of the dear Saviour's birth.
 
+[Carlos:]
 Sweet hymns of joy in grateful chorus raise we,
+
+[Sebastien:]
 Let all within us praise His holy name.
 
-Christ is the Lord, Let ever ever praise
-Thee Noel, Noel
+Christ is the Lord,
+Let everyone in grateful chorus raise we
+O night, o night
 O night, o night divine
 O night, divine, o night
 O holy night.
-
-
-
-End
                         
                     |

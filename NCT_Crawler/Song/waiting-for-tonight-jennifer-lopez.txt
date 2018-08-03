@@ -1,10 +1,10 @@
 Pop|
 
-                        Bài hát: Waiting For Tonight - Jennifer Lopez
-
+                        [ti:Waiting For Tonight]
+[ar:Jennifer Lopez]
 Like a movie scene
 In the sweetest dreams
-I have pictured us together
+Have pictured us together
 Now to feel your lips
 On my fingertips
 I have to say is even better
@@ -13,14 +13,11 @@ It's perfect, it's passion, it's setting me free
 From all of my sadness
 The tears that I've cried
 I have spent all of my life
-
-[CHORUS:]
-Waiting for tonight, oh
+CHORUS: Waiting for tonight, oh
 When you would be here in my arms
 Waiting for tonight, oh
 I've dreamed of this love for so long
 Waiting for tonight
-
 Tender words you say
 Take my breath away
 Love me now, leave me never
@@ -29,16 +26,11 @@ Lost in your embrace
 I want to stay in this forever
 I think of the days when the sun used to set
 On my empty heart, all alone in my bed
-Tossing and turning
-Emotions were strong
+Tossing and turning Emotions were strong
 I knew I had to hold on
-
-[CHORUS 2x]
-
 Gone are the days when the sun used to set
 On my empty heart all alone in my bed
-Tossing and turning
-Emotions were strong
+Tossing and turning Emotions were strong
 I knew I had to hold on
                         
                     |
