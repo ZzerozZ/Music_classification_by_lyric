@@ -1,6 +1,7 @@
-Pop|
+Âu Mỹ khác|
 
-                        Bài hát: Come Away With Me - Norah Jones
+                        Song: Come Away With Me
+Artist: Norah Jones
 
 Come away with me in the night
 Come away with me
@@ -10,11 +11,10 @@ Come away with me on a bus
 Come away where they can't tempt us
 With their lies
 
-I want to walk with you 
+And I want to walk with you
 On a cloudy day
 In fields where the yellow grass grows knee-high
 So won't you try to come
-
 Come away with me and we'll kiss
 On a mountaintop
 Come away with me
@@ -25,6 +25,7 @@ Falling on a tin roof
 While I'm safe there in your arms
 So all I ask is for you
 To come away with me in the night
+
 Come away with me
-                        
-                    |
+
+|
