@@ -1,6 +1,11 @@
 R&B/Hip Hop/Rap|
 
-                        Bài hát: He Can Only Hold Her - Amy Winehouse 
+                        [ti:He Can Only Hold Her]
+[ar:Amy Winehouse]
+[al:Back To Black]
+He Can Only Hold Her
+
+Amy Winehouse
 
 whoo...hoo...
 
@@ -25,5 +30,11 @@ So he tries to pacify her
 Cause whats inside her never dies
 So he tries to pacify her
 Cause whats inside her never dies
-                        
-                    |
+
+He Can Only Hold Her
+
+Amy Winehouse
+
+By jlcc
+
+|

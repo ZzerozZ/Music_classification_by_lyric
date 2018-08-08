@@ -1,7 +1,9 @@
 R&B/Hip Hop/Rap|
 
-                        Bài hát: Forever - Mariah Carey
-
+                        [ti:Forever]
+[ar:Mariah Carey]
+[al:Daydream]
+[offset:500]
 Hey oh yeah
 Those days of love are gone
 Our time is through
